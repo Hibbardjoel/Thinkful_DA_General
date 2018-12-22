@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## General Repo For DA program
 
-You can use the [editor on GitHub](https://github.com/Hibbardjoel/Thinkful_DA_General/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Links to resourses and code for DA program 2018-2019
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Editors and collaboration tools
+SQL: teamsql [Link](https://teamsql.io/)
+
+Code/Text Editor: Ultraedit [Link](https://www.ultraedit.com/)
 
 ### Markdown
 
