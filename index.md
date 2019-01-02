@@ -9,6 +9,7 @@ SQL results will have link to Git
 Code/Text Editor: Ultraedit [Link](https://www.ultraedit.com/)
 
 Python editor: PyCharm [Link](https://www.jetbrains.com/pycharm/)
+                Ripl.it (vitual enviro) [link](https://repl.it)
 
 In Browser Editor with synch to Github: [link](http://www.stackedit.io) (this helps with markup and Github editing)
 
